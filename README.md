@@ -10,11 +10,15 @@ El propósito de este repositorio es alojar las diferentes tareas desarrolladas 
   
 Cada participante o grupo de participantes pueden alojar en este repositorio sus *notebooks* y documentación adicional para compartirla con el resto de participantes del evento.
 
+Más información sobre el evento [aquí](https://comunicacion.uva.es/es_ES/detalle/Un-hackathon-en-el-Campus-de-Palencia-reta-a-los-estudiantes-a-identificar-maderas-a-traves-de-un-algoritmo-de-inteligencia-artificial/).
+
 ---
 
 *The purpose of this repository is to compile the different tasks developed by the participants of the hackathon held at the University of Valladolid, Campus of Palencia on December 20th 2022.* 
   
 *Every participant or group can store his notebook and documentation to share it with the rest of the participants in the event.*
+
+More information about the event [here](https://comunicacion.uva.es/es_ES/detalle/Un-hackathon-en-el-Campus-de-Palencia-reta-a-los-estudiantes-a-identificar-maderas-a-traves-de-un-algoritmo-de-inteligencia-artificial/).
 
 ---
 
